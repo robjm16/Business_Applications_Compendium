@@ -3,6 +3,7 @@ _A compendium of articles, research reports and other resources focused on the a
 
 _McKinsey (the big consulting firm) and The Wall Street Journal provide the most comprehensive stores of AI-related information.  They are covered below, followed by other information sources_
 
+
 #### McKinsey
 Brings considerable research and analyses under an [Analytics Insights](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights) landing page on its website. 
 
@@ -29,6 +30,7 @@ Other notable McKinsey pieces:
 - ["Insurance 2030—The Impact of AI on the Future of Insurance"](https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance)
 
 
+
 #### Wall Street Journal
 The _WSJ_ also brings together its AI-related articles under [one landing page](https://www.wsj.com/pro/artificial-intelligence).
 
@@ -37,6 +39,7 @@ Notable articles:
 - ["Models will Run the World"](https://www.wsj.com/articles/models-will-run-the-world-1534716720)
 
 - ["On Hold for 45 Minutes? It Might Be Your Secret Customer Score"](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656)
+
 
 
 #### Other 
