@@ -9,23 +9,24 @@ The consulting firm brings its considerable research and analyses under one roof
 An [interactive tool](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics) that lets you explore 400 business use cases, covering 19 industries and nine business functions.
 
 Other notable McKinsey pieces:
-["An Executive's Guide to AI"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 
-["Insights from Hundreds of Use Cases"](https://www.mckinsey.com/~/media/-mckinsey/featured%20insights/artificial%20intelligence/notes%20from%20the%20ai%20frontier%20applications%20and%20value%20of%20deep%20learning/notes-from-the-ai-frontier-insights-from-hundreds-of-use-cases-discussion-paper.ashx)
+- ["An Executive's Guide to AI"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 
-["How to Apply AI for Impact"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/crossing-the-frontier-how-to-apply-ai-for-impact)
+- ["Insights from Hundreds of Use Cases"](https://www.mckinsey.com/~/media/-mckinsey/featured%20insights/artificial%20intelligence/notes%20from%20the%20ai%20frontier%20applications%20and%20value%20of%20deep%20learning/notes-from-the-ai-frontier-insights-from-hundreds-of-use-cases-discussion-paper.ashx)
 
-["Ten Red Flags Signaling Your Analytics Program Will Fail"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail)
+- ["How to Apply AI for Impact"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/crossing-the-frontier-how-to-apply-ai-for-impact)
 
-["What AI Can and Can’t Do (Yet) for Your Business"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business)
+- ["Ten Red Flags Signaling Your Analytics Program Will Fail"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail)
 
-["The Age of Analytics: Competing in a Data-Driven World"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world)
+- ["What AI Can and Can’t Do (Yet) for Your Business"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business)
 
-["Artificial Intelligence: The Next Digital Frontier"](https://www.mckinsey.com/mgi/overview/2017-in-review/whats-next-in-digital-and-ai/artificial-intelligence-the-next-digital-frontier)
+- ["The Age of Analytics: Competing in a Data-Driven World"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world)
 
-["Artificial Intelligence: Why a Digital Base is Critical"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/artificial-intelligence-why-a-digital-base-is-critical)
+- ["Artificial Intelligence: The Next Digital Frontier"](https://www.mckinsey.com/mgi/overview/2017-in-review/whats-next-in-digital-and-ai/artificial-intelligence-the-next-digital-frontier)
 
-["Insurance 2030—The Impact of AI on the Future of Insurance"](https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance)
+- ["Artificial Intelligence: Why a Digital Base is Critical"](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/artificial-intelligence-why-a-digital-base-is-critical)
+
+- ["Insurance 2030—The Impact of AI on the Future of Insurance"](https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance)
 
 
 ### Wall Street Journal
