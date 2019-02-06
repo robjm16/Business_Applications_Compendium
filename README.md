@@ -6,7 +6,7 @@ _McKinsey (the consulting firm) and The Wall Street Journal provide the most com
 ### McKinsey
 Brings considerable research and analyses under an [Analytics Insights](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights) landing page on its website. 
 
-An [interactive tool](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics) that lets you explore 400 business use cases, covering 19 industries and nine business functions.
+An [interactive tool](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics) lets you explore 400 business use cases, covering 19 industries and nine business functions.
 
 Other notable McKinsey pieces:
 
