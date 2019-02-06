@@ -32,6 +32,7 @@ Other notable McKinsey pieces:
 The _WSJ_ also brings together its AI-related articles under [one landing page](https://www.wsj.com/pro/artificial-intelligence).
 
 Notable articles:  
+
 ["Models will Run the World"](https://www.wsj.com/articles/models-will-run-the-world-1534716720)
 
 ["On Hold for 45 Minutes? It Might Be Your Secret Customer Score"](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656)
@@ -43,4 +44,4 @@ Notable articles:
 - ["Let Curiosity Drive: Fostering Innovation in Data Science"](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/) "The real value of data science lies not in making existing processes incrementally more efficient but rather in the creation of new algorithmic capabilities that enable step-function changes in value....
 [T]wo things—low cost exploration and empirical evidence—set data science apart from other business functions."
 
-- ["Decision Intelligence and Data Science (with Cassie Kozyrkov)"](https://www.datacamp.com/community/podcast/decision-intelligence-data-science)  Podcast with Google Cloud's chief data scientist, sponsored by DataCamp.  See this [schema](https://github.com/robjm16/Business_Applications_Compendium/blob/master/Org_Model_for_DS_Implementation.JPG) for data science implementation. 
+- ["Decision Intelligence and Data Science (with Cassie Kozyrkov)"](https://www.datacamp.com/community/podcast/decision-intelligence-data-science)  Podcast with Google Cloud's chief data scientist, sponsored by DataCamp.  See this [schema](https://github.com/robjm16/Business_Applications_Compendium/blob/master/Org_Model_for_DS_Implementation.JPG) for data science organizational implementation. 
