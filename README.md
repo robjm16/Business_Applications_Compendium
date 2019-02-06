@@ -3,7 +3,7 @@ _A compendium of articles, research reports and other resources focused on the a
 
 _McKinsey (the big consulting firm) and The Wall Street Journal provide the most comprehensive stores of AI-related information.  They are covered below, followed by other information sources_
 
-### McKinsey
+#### McKinsey
 Brings considerable research and analyses under an [Analytics Insights](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights) landing page on its website. 
 
 An [interactive tool](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics) lets you explore 400 business use cases, covering 19 industries and nine business functions.
@@ -29,7 +29,7 @@ Other notable McKinsey pieces:
 - ["Insurance 2030—The Impact of AI on the Future of Insurance"](https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance)
 
 
-### Wall Street Journal
+#### Wall Street Journal
 The _WSJ_ also brings together its AI-related articles under [one landing page](https://www.wsj.com/pro/artificial-intelligence).
 
 Notable articles:  
@@ -39,7 +39,7 @@ Notable articles:
 - ["On Hold for 45 Minutes? It Might Be Your Secret Customer Score"](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656)
 
 
-### Other 
+#### Other 
 - ["Artificial Intelligence in Business Gets Real" (MIT)](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/)
 
 - ["Let Curiosity Drive: Fostering Innovation in Data Science"](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/) "The real value of data science lies not in making existing processes incrementally more efficient but rather in the creation of new algorithmic capabilities that enable step-function changes in value....
