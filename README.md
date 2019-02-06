@@ -34,9 +34,9 @@ The _WSJ_ also brings together its AI-related articles under [one landing page](
 
 Notable articles:  
 
-["Models will Run the World"](https://www.wsj.com/articles/models-will-run-the-world-1534716720)
+- ["Models will Run the World"](https://www.wsj.com/articles/models-will-run-the-world-1534716720)
 
-["On Hold for 45 Minutes? It Might Be Your Secret Customer Score"](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656)
+- ["On Hold for 45 Minutes? It Might Be Your Secret Customer Score"](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656)
 
 
 ### Other 
