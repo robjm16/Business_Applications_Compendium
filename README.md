@@ -43,7 +43,7 @@ Notable articles:
 
 
 #### Other 
-- ["Artificial Intelligence in Business Gets Real")](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/) from MIT.
+- ["Artificial Intelligence in Business Gets Real"](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/) from MIT.
 
 - ["AI Transformation Playbook"](https://landing.ai/ai-transformation-playbook/) from Landing AI, a company founded by Andrew Ng, former leader of major AI units at Baidu and Google and a pioneer in online AI learning.   
 
