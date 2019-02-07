@@ -40,6 +40,8 @@ Notable articles:
 
 - ["On Hold for 45 Minutes? It Might Be Your Secret Customer Score"](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656)
 
+- ["Chief Artificial Intelligence Officers Enter the C-Suite"](https://www.wsj.com/articles/chief-artificial-intelligence-officers-enter-the-c-suite-11548756000)
+
 
 
 #### Other 
