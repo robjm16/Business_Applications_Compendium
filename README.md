@@ -45,7 +45,7 @@ Notable articles:
 #### Other 
 - ["Artificial Intelligence in Business Gets Real")](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/) From MIT.
 
-- ["AI Transformation Playbook"](https://landing.ai/ai-transformation-playbook/) from Landing AI, a company founded by Andrew Ng, who led major AI organizations at Baidu and Google and a pioneer in online AI learning.
+- ["AI Transformation Playbook"](https://landing.ai/ai-transformation-playbook/) from Landing AI, a company founded by Andrew Ng, former leader of major AI units at Baidu and Google and a pioneer in online AI learning.   
 
 - ["Let Curiosity Drive: Fostering Innovation in Data Science"](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/) "The real value of data science lies not in making existing processes incrementally more efficient but rather in the creation of new algorithmic capabilities that enable step-function changes in value....
 [T]wo things—low cost exploration and empirical evidence—set data science apart from other business functions."
