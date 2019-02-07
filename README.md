@@ -1,7 +1,7 @@
 ## The Business of Data Science
 _A compendium of articles, research reports and other resources focused on the application of data science (including artificial intelligence) to the business world._
 
-_McKinsey (the big consulting firm) and The Wall Street Journal provide the most comprehensive stores of AI-related information.  They are covered below, followed by other information sources_
+_McKinsey (the consulting firm) and The Wall Street Journal provide the most comprehensive stores of AI-related information.  They are covered below, followed by other information sources_
 
 
 #### McKinsey
