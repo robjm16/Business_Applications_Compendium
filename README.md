@@ -32,7 +32,7 @@ Other notable McKinsey pieces:
 
 
 #### Wall Street Journal
-The _WSJ_ also brings together its AI-related articles under [one landing page](https://www.wsj.com/pro/artificial-intelligence).
+The _WSJ_ brings together timely AI-related articles under [one landing page](https://www.wsj.com/pro/artificial-intelligence).
 
 Notable articles:  
 
