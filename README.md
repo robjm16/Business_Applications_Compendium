@@ -45,11 +45,13 @@ Notable articles:
 
 
 #### Other 
-- ["Artificial Intelligence in Business Gets Real"](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/) from MIT.
+- ["Artificial Intelligence in Business Gets Real"](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/) Report from MIT.
 
 - ["AI Transformation Playbook"](https://landing.ai/ai-transformation-playbook/) from Landing AI, a company founded by Andrew Ng, former leader of major AI units at Baidu and Google and a pioneer in online AI learning.   
 
-- ["Let Curiosity Drive: Fostering Innovation in Data Science"](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/) Excerpt: "The real value of data science lies not in making existing processes incrementally more efficient but rather in the creation of new algorithmic capabilities that enable step-function changes in value....
+- ["Let Curiosity Drive: Fostering Innovation in Data Science"](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/) "The real value of data science lies not in making existing processes incrementally more efficient but rather in the creation of new algorithmic capabilities that enable step-function changes in value....
 [T]wo things—low cost exploration and empirical evidence—set data science apart from other business functions."
+
+- ["Big Data and AI Executive Survey 2019"](http://newvantage.com/wp-content/uploads/2018/12/Big-Data-Executive-Survey-2019-Findings-Updated-010219-1.pdf?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_220)  Survey by NewVantage Partners, a consulting firm, finds lots of corporate enthusiasm for AI, but mixed results in implementing.  " Respondents clearly say that technology isn’t the problem—people and (to a lesser extent) processes are.… Yet we would guess with high confidence that the great majority of spending on big data and AI goes for technology and its development. We hear little about initiatives devoted to changing human attitudes and behaviors around data. " Among factors working against successful adoption are: lack of organizational alignment/agility (cited as top factor by 40%), cultural resistance (24%), understanding of data as an asset (14%) and executive leadership (7%).  Only 5% cite technology as the top challenge.   
 
 - ["Decision Intelligence and Data Science (with Cassie Kozyrkov)"](https://www.datacamp.com/community/podcast/decision-intelligence-data-science)  Podcast with Google Cloud's chief decision scientist, sponsored by DataCamp.  See this [schema](https://github.com/robjm16/Business_Applications_Compendium/blob/master/Org_Model_for_DS_Implementation.JPG) for different data science organizational models. 
