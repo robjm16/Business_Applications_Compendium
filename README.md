@@ -45,7 +45,7 @@ Notable articles:
 
 
 #### Other 
-- [This Is Why AI Has Yet to Reshape Most Businesses](https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most-businesses/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter) from MIT.   Looks at organizational, people and data issues slowing down AI adoption, especially at companies not expressly built around data capture and usage.  "If companies don’t stop and build connections between[disparate] systems, then machine learning will work on just some of their data. That explains why the most common uses of AI so far have involved business processes that are siloed but nonetheless have abundant data, such as computer security or fraud detection at banks." (February 13, 2019)
+- [This Is Why AI Has Yet to Reshape Most Businesses](https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most-businesses/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter) from _MIT Technology Review_.   Looks at organizational, people and data issues slowing down AI adoption, especially at companies not expressly built around data capture and usage.  "If companies don’t stop and build connections between[disparate] systems, then machine learning will work on just some of their data. That explains why the most common uses of AI so far have involved business processes that are siloed but nonetheless have abundant data, such as computer security or fraud detection at banks." (February 13, 2019)
 
 - [Artificial Intelligence in Business Gets Real](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/) Report from MIT.
 
