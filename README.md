@@ -4,13 +4,13 @@ There is growing consensus, backed by recent surveys, that the biggest challenge
 
 Rather, implementation challenges are far more likely tied to data issues and an array of organizational considerations.  These include: 
 
-  •	Data quality, missing data and difficulty integrating data housed across disparate systems.  
-  •	Risks including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy concerns, and the potential for unwittingly introducing biased models (e.g., credit risk algorithms that unfairly penalize certain groups).  
-  •	Difficulties recruiting data scientists and other AI experts, and questions around how to organize and manage them (e.g., in centers of excellence or within lines of business).   
-  •	Getting started: type and scope of pilot projects.  
-  •	How to use line-of-business leaders and other subject matter experts in AI projects.    
-  • Measuring results, including ROI (return on investment) or KPIs (key performance indicators).   
-  •	A host of change management issues, ranging from new job roles for people to new business processes.  
+•	Data quality, missing data and difficulty integrating data housed across disparate systems.  
+•	Risks including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy concerns, and the potential for unwittingly introducing biased models (e.g., credit risk algorithms that unfairly penalize certain groups).  
+•	Difficulties recruiting data scientists and other AI experts, and questions around how to organize and manage them (e.g., in centers of excellence or within lines of business).   
+•	Getting started: type and scope of pilot projects.  
+•	How to use line-of-business leaders and other subject matter experts in AI projects.    
+• Measuring results, including ROI (return on investment) or KPIs (key performance indicators).   
+•	A host of change management issues, ranging from new job roles for people to new business processes.  
 
 As with other transformative technologies, businesses are finding that people and process challenges can easily surpass the technical ones. 
 
