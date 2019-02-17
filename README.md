@@ -4,13 +4,13 @@ There is growing consensus, backed by recent surveys, that the biggest challenge
 
 Rather, implementation challenges are far more likely tied to data issues and an array of organizational considerations.  These include: 
 
-•	 Data quality, missing data and difficulty integrating data housed across disparate systems.  
-•	 Risks including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy concerns, and the potential for unwittingly introducing biased models (e.g., credit risk algorithms that unfairly penalize certain groups).  
-•	 Difficulties recruiting data scientists and other AI experts, and questions around how to organize and manage them (e.g., in centers of excellence or within lines of business).   
-•  Getting started: type and scope of pilot projects.  
-•	 How to use line-of-business leaders and other subject matter experts in AI projects.    
-•  Measuring results, including ROI (return on investment) or KPIs (key performance indicators).   
-•  A host of change management issues, ranging from new job roles for people to new business processes.  
+-	 Data quality, missing data and difficulty integrating data housed across disparate systems.  
+-	 Risks including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy concerns, and the potential for unwittingly introducing biased models (e.g., credit risk algorithms that unfairly penalize certain groups).  
+-	 Difficulties recruiting data scientists and other AI experts, and questions around how to organize and manage them (e.g., in centers of excellence or within lines of business).   
+-  Getting started: type and scope of pilot projects.  
+-	 How to use line-of-business leaders and other subject matter experts in AI projects.    
+-  Measuring results, including ROI (return on investment) or KPIs (key performance indicators).   
+-  A host of change management issues, ranging from new job roles for people to new business processes.  
 
 As with other transformative technologies, businesses are finding that people and process challenges can easily surpass the technical ones. 
 
@@ -24,13 +24,13 @@ The information sources below are broken down first by key AI repositories, foll
 #### McKinsey
 Brings its extensive research and analysis under an [Analytics Insights](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights) landing page on its website.  Also follow on Twitter [@McKAnalytics](https://twitter.com/McKAnalytics). 
 
-An [interactive tool](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics) lets you explore 400 business use cases, covering 19 industries and nine business functions.  The tool sizes the macro-level financial opportunity by function and industry, and lets you see the most likely techniques (e.g., regression, neural network) by business objective.  
+An [interactive tool](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics) lets you explore 400 business use cases, covering 19 industries and nine business functions.  The tool sizes the macro-level financial opportunity by function and industry, and lets you see the most likely AI techniques (e.g., regression, neural network) by business objective.  
 
 [Notes from the AI Frontier: Insights from Hundreds of Use Cases]( https://www.mckinsey.com/~/media/mckinsey/featured%20insights/artificial%20intelligence/notes%20from%20the%20ai%20frontier%20applications%20and%20value%20of%20deep%20learning/notes-from-the-ai-frontier-insights-from-hundreds-of-use-cases-discussion-paper.ashx) (April 2018) is a comprehensive report on the information contained in the interactive tool.  
 
 [Crossing the Frontier: How to Apply AI for Impact](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/crossing-the-frontier-how-to-apply-ai-for-impact) is a collection of about a dozen articles, including:   
-•   [Ten Red Flags Signaling Your Analytics Program Will Fail](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) (May 2018)  
-•   [What AI Can and Can’t Do (Yet) for Your Business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business) (January 2018)    
+- [Ten Red Flags Signaling Your Analytics Program Will Fail](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) (May 2018)  
+- [What AI Can and Can’t Do (Yet) for Your Business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business) (January 2018)    
 
 #### Wall Street Journal
 The _WSJ_ brings together timely AI-related articles (often company- or industry-specific) under a dedicated [landing page](https://www.wsj.com/pro/artificial-intelligence).  Follow on Twitter [@WSJProAI](https://twitter.com/WSJProAI).  
