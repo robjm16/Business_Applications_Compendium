@@ -6,19 +6,20 @@ Rather, implementation challenges are far more likely tied to data issues and an
 
   •	Data quality, missing data and difficulty integrating data housed in disparate systems.  
   •	Risks including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy concerns, and the potential for unwittingly introducing biased models (e.g., credit risk algorithms that unfairly penalize certain groups).  
-  •	Difficulties recruiting data scientists and other AI experts, and questions around how to organize and manage them (e.g., in centers of excellence or within lines of business)  
-  •	How to use line-of-business leaders and other subject matter experts in AI projects, alongside AI experts     
-  •	How to get started: type and scope of pilot projects   
-  •	Measuring results, either in terms of ROI (return on investment) or KPIs (key performance indicators)  
+  •	Difficulties recruiting data scientists and other AI experts, and questions around how to organize and manage them (e.g., in centers of excellence or within lines of business). 
+  •	Getting started: type and scope of pilot projects.
+  •	How to use line-of-business leaders and other subject matter experts in AI projects.  
+  • Measuring results, either in terms of ROI (return on investment) or KPIs (key performance indicators). 
   •	A host of change management issues, including new roles for people to entirely new business processes.  
 
 As with other transformative technologies, businesses are finding that people and process challenges can easily surpass the technical ones. 
 
 To help you navigate AI implementation, below is a compendium of articles, research reports and other resources focused on the application of AI to the business world.  
 
-(Note that the term AI is used here in its broadest sense.  It refers to any computer technique – including if/then computer logic, machine learning algorithms (such as regression models and decision trees) and advanced neural networks – that aims to mimic human intelligence.
+Note that the term AI is used here in its broadest sense.  It refers to any computer technique – including if/then computer logic, machine learning algorithms (such as regression models and decision trees) and advanced neural networks – that aims to mimic human intelligence.
 
-The information sources below are broken down first by key AI repositories, followed by a llist of ad hoc articles and reports.  The key repositories are a good starting point for gaining understanding of AI adoption issues.  You can stay abreast of new developments by signing up for updates from these sources.  
+The information sources below are broken down first by key AI repositories, followed by a llist of ad hoc articles and reports.  The key repositories are a good starting point for gaining understanding of AI adoption issues.  You can stay abreast of new developments by signing up for updates from these sources. 
+
 
 #### McKinsey
 Brings its extensive research and analysis under an [Analytics Insights](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights) landing page on its website.  Also follow on Twitter [@McKAnalytics]( https://twitter.com/McKAnalytics) 
