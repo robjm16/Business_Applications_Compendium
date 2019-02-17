@@ -35,9 +35,9 @@ An [interactive tool](https://www.mckinsey.com/featured-insights/artificial-inte
 The _WSJ_ brings together timely AI-related articles (often company- or industry-specific) under a dedicated [landing page](https://www.wsj.com/pro/artificial-intelligence).  Follow on Twitter [@WSJProAI](https://twitter.com/WSJProAI).  
   
 Notable articles:  
-• [Models will Run the World](https://www.wsj.com/articles/models-will-run-the-world-1534716720) (August 19, 2018)
-• [On Hold for 45 Minutes? It Might Be Your Secret Customer Score](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656) (November 1, 2018)
-• [Chief Artificial Intelligence Officers Enter the C-Suite](https://www.wsj.com/articles/chief-artificial-intelligence-officers-enter-the-c-suite-11548756000) (February 5, 2019)  
+• [Models will Run the World](https://www.wsj.com/articles/models-will-run-the-world-1534716720) (August 19, 2018)  
+• [On Hold for 45 Minutes? It Might Be Your Secret Customer Score](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656) (November 1, 2018)  
+• [Chief Artificial Intelligence Officers Enter the C-Suite](https://www.wsj.com/articles/chief-artificial-intelligence-officers-enter-the-c-suite-11548756000) (February 5, 2019)    
 
 
 #### MIT (Massachusetts Institute of Technology) 
