@@ -33,7 +33,7 @@ An [interactive tool](https://www.mckinsey.com/featured-insights/artificial-inte
 - [What AI Can and Can’t Do (Yet) for Your Business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business) (January 2018)    
 
 #### Wall Street Journal
-The _WSJ_ brings together timely AI-related articles (often company- or industry-specific) under a dedicated [landing page](https://www.wsj.com/pro/artificial-intelligence).  Follow on Twitter [@WSJProAI](https://twitter.com/WSJProAI).  
+The _WSJ_ brings together timely AI-related articles (often company- or industry-specific) under a dedicated [portal](https://www.wsj.com/pro/artificial-intelligence).  Follow on Twitter [@WSJProAI](https://twitter.com/WSJProAI).  
   
 Notable articles:  
 - [Models will Run the World](https://www.wsj.com/articles/models-will-run-the-world-1534716720) (August 19, 2018)  
