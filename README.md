@@ -4,7 +4,7 @@ There is growing consensus, backed by recent surveys, that the biggest challenge
 
 Rather, implementation challenges are far more likely tied to data issues and an array of organizational considerations.  These include: 
 
-  •	Data quality, missing data and difficulty integrating data housed in disparate systems.  
+  •	Data quality, missing data and difficulty integrating data housed across disparate systems.  
   •	Risks including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy concerns, and the potential for unwittingly introducing biased models (e.g., credit risk algorithms that unfairly penalize certain groups).  
   •	Difficulties recruiting data scientists and other AI experts, and questions around how to organize and manage them (e.g., in centers of excellence or within lines of business).   
   •	Getting started: type and scope of pilot projects.  
