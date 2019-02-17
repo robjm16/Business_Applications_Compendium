@@ -4,13 +4,13 @@ There is growing consensus, backed by recent surveys, that the biggest challenge
 
 Rather, implementation challenges are far more likely tied to data issues and an array of organizational considerations.  These include: 
 
-•	Data quality, missing data and difficulty integrating data housed across disparate systems.  
-•	Risks including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy concerns, and the potential for unwittingly introducing biased models (e.g., credit risk algorithms that unfairly penalize certain groups).  
-•	Difficulties recruiting data scientists and other AI experts, and questions around how to organize and manage them (e.g., in centers of excellence or within lines of business).   
-•	Getting started: type and scope of pilot projects.  
-•	How to use line-of-business leaders and other subject matter experts in AI projects.    
-• Measuring results, including ROI (return on investment) or KPIs (key performance indicators).   
-•	A host of change management issues, ranging from new job roles for people to new business processes.  
+•	 Data quality, missing data and difficulty integrating data housed across disparate systems.  
+•	 Risks including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy concerns, and the potential for unwittingly introducing biased models (e.g., credit risk algorithms that unfairly penalize certain groups).  
+•	 Difficulties recruiting data scientists and other AI experts, and questions around how to organize and manage them (e.g., in centers of excellence or within lines of business).   
+•  Getting started: type and scope of pilot projects.  
+•	 How to use line-of-business leaders and other subject matter experts in AI projects.    
+•  Measuring results, including ROI (return on investment) or KPIs (key performance indicators).   
+•  A host of change management issues, ranging from new job roles for people to new business processes.  
 
 As with other transformative technologies, businesses are finding that people and process challenges can easily surpass the technical ones. 
 
@@ -28,16 +28,18 @@ An [interactive tool](https://www.mckinsey.com/featured-insights/artificial-inte
 [Notes from the AI Frontier: Insights from Hundreds of Use Cases]( https://www.mckinsey.com/~/media/mckinsey/featured%20insights/artificial%20intelligence/notes%20from%20the%20ai%20frontier%20applications%20and%20value%20of%20deep%20learning/notes-from-the-ai-frontier-insights-from-hundreds-of-use-cases-discussion-paper.ashx) (April 2018) is a comprehensive report on the information contained in the interactive tool.  
 
 [Crossing the Frontier: How to Apply AI for Impact](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/crossing-the-frontier-how-to-apply-ai-for-impact) is a collection of about a dozen articles, including:   
-  • [Ten Red Flags Signaling Your Analytics Program Will Fail](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) (May 2018)  
-  • [What AI Can and Can’t Do (Yet) for Your Business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business) (January 2018)    
+•   [Ten Red Flags Signaling Your Analytics Program Will Fail](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) (May 2018)  
+•   [What AI Can and Can’t Do (Yet) for Your Business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business) (January 2018)    
 
 #### Wall Street Journal
-The _WSJ_ brings together timely AI-related articles under [one landing page](https://www.wsj.com/pro/artificial-intelligence), often company- or industry-specific.  Follow on @WSJProAI ‏
+The _WSJ_ brings together timely AI-related articles (often company- or industry-specific) under a dedicated [landing page](https://www.wsj.com/pro/artificial-intelligence).  Follow on Twitter [@WSJProAI](https://twitter.com/WSJProAI).  
+  
 Notable articles:  
-- [Models will Run the World](https://www.wsj.com/articles/models-will-run-the-world-1534716720) (August 19, 2018)
+• [Models will Run the World](https://www.wsj.com/articles/models-will-run-the-world-1534716720) (August 19, 2018)
+• [On Hold for 45 Minutes? It Might Be Your Secret Customer Score](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656) (November 1, 2018)
+• [Chief Artificial Intelligence Officers Enter the C-Suite](https://www.wsj.com/articles/chief-artificial-intelligence-officers-enter-the-c-suite-11548756000) (February 5, 2019)  
 
-- [On Hold for 45 Minutes? It Might Be Your Secret Customer Score](https://www.wsj.com/articles/on-hold-for-45-minutes-it-might-be-your-secret-customer-score-1541084656) (November 1, 2018)
-- [Chief Artificial Intelligence Officers Enter the C-Suite](https://www.wsj.com/articles/chief-artificial-intelligence-officers-enter-the-c-suite-11548756000) (February 5, 2019)
+
 #### MIT (Massachusetts Institute of Technology) 
 Follow the _MIT Technology Review_  (https://www.technologyreview.com/) or on Twitter at [@techreview]( https://twitter.com/techreview).  AI and data science articles are also published in MIT's general business publication _MIT Sloan Management Review_( https://sloanreview.mit.edu/topic/data-and-analytics/)
 - [This Is Why AI Has Yet to Reshape Most Businesses](https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most-businesses/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter) from _MIT Technology Review_.   Looks at organizational, people and data issues slowing down AI adoption, especially at companies not expressly built around data capture and usage.  "If companies don’t stop and build connections between[disparate] systems, then machine learning will work on just some of their data. That explains why the most common uses of AI so far have involved business processes that are siloed but nonetheless have abundant data, such as computer security or fraud detection at banks." (February 13, 2019)
