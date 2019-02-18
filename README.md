@@ -6,9 +6,9 @@ Rather, implementation challenges are far more likely related to data issues and
 
 -	 Data quality, missing data and difficulty integrating data housed across disparate systems.  
 -	 Risks, including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy and model bias (e.g., credit risk algorithms that unwittingly penalize certain groups).  
--	 Difficulties recruiting data scientists and other AI experts, and questions about how to organize and manage them (e.g., in centers of excellence or within lines of business).   
+-	 Difficulties recruiting data scientists and other technical experts, and questions about how to organize and manage them (e.g., in centers of excellence or within lines of business).   
 -  How to get started: type and scope of pilot projects.  
--	 How, when and where to use line-of-business leaders and other domain experts in AI projects.    
+-	 How, when and where to involve line-of-business leaders and other domain experts in AI projects.    
 -  Measuring results, including ROI (return on investment) and KPIs (key performance indicators).   
 -  A host of change management issues, ranging from new job roles to new business processes.  
 
@@ -24,7 +24,7 @@ The information sources below are broken down first by key AI repositories, foll
 #### McKinsey
 Brings its extensive research and analysis under an [Analytics Insights](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights) landing page on its website. Follow on Twitter [@McKAnalytics](https://twitter.com/McKAnalytics). 
 
-[Notes from the AI Frontier: Insights from Hundreds of Use Cases]( https://www.mckinsey.com/~/media/mckinsey/featured%20insights/artificial%20intelligence/notes%20from%20the%20ai%20frontier%20applications%20and%20value%20of%20deep%20learning/notes-from-the-ai-frontier-insights-from-hundreds-of-use-cases-discussion-paper.ashx) (April 2018) is a comprehensive report on 400 business use cases, covering 19 industries and nine business functions.  It sizes the macro-level financial opportunity by function and industry.  A related interactive tool](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics) lets you explore the use cases, showing the most likely AI techniques (e.g., regression, neural network) by business objective.  
+[Notes from the AI Frontier: Insights from Hundreds of Use Cases]( https://www.mckinsey.com/~/media/mckinsey/featured%20insights/artificial%20intelligence/notes%20from%20the%20ai%20frontier%20applications%20and%20value%20of%20deep%20learning/notes-from-the-ai-frontier-insights-from-hundreds-of-use-cases-discussion-paper.ashx) (April 2018) is a comprehensive report on 400 business use cases, covering 19 industries and nine business functions.  It sizes the macro-level financial opportunity by function and industry.  A related [interactive tool](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics) lets you explore the use cases, showing the most likely AI techniques by business objective.  
 
 [Crossing the Frontier: How to Apply AI for Impact](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/crossing-the-frontier-how-to-apply-ai-for-impact) is a collection of about a dozen articles, including:   
 - [Ten Red Flags Signaling Your Analytics Program Will Fail](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) (May 2018).  
@@ -40,7 +40,7 @@ Notable articles:
 
 
 #### MIT (Massachusetts Institute of Technology) 
-Follow the _MIT Technology Review_ [online](https://www.technologyreview.com/) or on Twitter at [@techreview]( https://twitter.com/techreview).  AI and data science articles are also published in MIT's general management publication, [_MIT Sloan Management Review_]( https://sloanreview.mit.edu/topic/data-and-analytics/).  
+Follow the _MIT Technology Review_ [online](https://www.technologyreview.com/) or on Twitter [@techreview]( https://twitter.com/techreview).  AI and data science articles are also published in MIT's general management publication, [_MIT Sloan Management Review_]( https://sloanreview.mit.edu/topic/data-and-analytics/).  
 
 Notable content:
 
@@ -48,7 +48,7 @@ Notable content:
 - [Artificial Intelligence in Business Gets Real](https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/)  (Fall 2018).  Report on survey of over 3,000 business leaders globally, along with 36 in-depth interviews. 
 
 #### Other 
-- [ State of AI in the Enterprise, 2nd Edition]( https://www2.deloitte.com/content/dam/insights/us/articles/4780_State-of-AI-in-the-enterprise/DI_State-of-AI-in-the-enterprise-2nd-ed.pdf)  from Deloitte (2018).  Survey of 1,100 companies provides covers popular AI business goals, ROI measurement, adoption rates of different "cognitive" technologies, data security, ethical risks (e.g., algorithmic bias) and other implementation/change management challenges.  
+- [ State of AI in the Enterprise, 2nd Edition]( https://www2.deloitte.com/content/dam/insights/us/articles/4780_State-of-AI-in-the-enterprise/DI_State-of-AI-in-the-enterprise-2nd-ed.pdf)  from Deloitte (2018).  Survey of 1,100 companies covers popular AI business goals, ROI measurement, adoption rates of different "cognitive" technologies, data security, ethical risks (e.g., algorithmic bias) and other implementation/change management challenges.  
 - [Big Data and AI Executive Survey 2019](http://newvantage.com/wp-content/uploads/2018/12/Big-Data-Executive-Survey-2019-Findings-Updated-010219-1.pdf?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_220) by NewVantage Partners, a consulting firm, finds significant corporate enthusiasm for AI, but mixed results in implementing.  "Respondents clearly say that technology isn’t the problem—people and (to a lesser extent) processes are.… Yet we would guess with high confidence that the great majority of spending on big data and AI goes for technology and its development. We hear little about initiatives devoted to changing human attitudes and behaviors around data. " Among factors working against successful adoption are: lack of organizational alignment/agility (cited as top factor by 40%), cultural resistance (24%), understanding of data as an asset (14%) and executive leadership (7%).  Only 5% cite technology as the top challenge. 
 - [How to Choose Your First AI Project](https://hbr.org/2019/02/how-to-choose-your-first-ai-project) (February 6, 2019) from the _Harvard Business Review_, authored by Andrew Ng, former leader of Baidu and Google AI units and a pioneer in online AI learning. Follow Ng on Twitter [@AndrewYNg](https://twitter.com/AndrewYNg).
 - [Let Curiosity Drive: Fostering Innovation in Data Science](https://multithreaded.stitchfix.com/blog/2019/01/18/fostering-innovation-in-data-science/) (January 18, 2019) from Chief Algorithms Officer at Stitch Fix, the online personalized fashion retailer. "The real value of data science lies not in making existing processes incrementally more efficient but rather in the creation of new algorithmic capabilities that enable step-function changes in value....[T]wo things—low cost exploration and empirical evidence—set data science apart from other business functions."
