@@ -1,11 +1,11 @@
 ## Applying AI to Business: A Guide to Information Sources
 
-There is growing consensus, backed by recent surveys, that the biggest challenges in applying AI to business have little to do with the algorithmic technologies themselves. They are powerful, customizable and increasingly accurate, with some out-of-the-box AI capabilities already embedded in popular CRM and ERP systems.
+There is growing consensus, backed by recent surveys, that the biggest challenges in applying AI to business have little to do with the algorithmic technologies themselves. They have proven to be extremely powerful, with some out-of-the-box AI capabilities now embedded in popular CRM and ERP systems.
 
 Rather, implementation challenges are far more likely related to data issues and an array of organizational considerations.  These include: 
 
 -	 Data quality, missing data and difficulty integrating data housed across disparate systems.  
--	 Risks, including cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy and model bias (e.g., credit risk algorithms that unwittingly penalize certain groups).  
+-	 Project risks, including those related to cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy and model bias (e.g., credit risk algorithms that unwittingly penalize certain groups).  
 -	 Difficulties recruiting data scientists and other technical experts, and questions about how to organize and manage them (e.g., in centers of excellence or within lines of business).   
 -  How to get started: type and scope of pilot projects.  
 -	 How, when and where to involve line-of-business leaders and other domain experts in AI projects.    
@@ -16,7 +16,7 @@ As with other transformative technologies, companies are finding that people and
 
 To help you navigate AI implementation, below is a compendium of articles, research reports and other resources focused on the application of AI to the business world.  
 
-(Note that the term AI is used here in its broadest sense.  It refers to any computer technique – including if/then-type computer logic, machine learning algorithms (e.g., regression models and decision trees) and advanced neural networks – that aims to mimic human intelligence.)
+(Note that the term AI is used here in its broadest sense.  It refers to any computer technique – including if/then-type computer logic, machine learning algorithms (e.g., regression models and decision trees) and neural networks – that aims to mimic human intelligence.)
 
 The information sources below are broken down first by key AI repositories, followed by a list of ad hoc articles and reports.  The key repositories are a good starting point for gaining understanding of AI adoption issues.  You can stay abreast of new developments by subscribing to their updates or following them on Twitter.  
 
