@@ -1,6 +1,6 @@
 ## Applying AI to Business: A Guide to Information Sources
 
-There is growing consensus, backed by recent surveys, that the biggest challenges in applying AI to business have little to do with the algorithmic technologies themselves. They have proven to be extremely powerful, with some out-of-the-box AI capabilities now embedded in popular CRM and ERP systems.
+There is growing consensus, backed by recent surveys, that the biggest challenges in applying AI to business have little to do with the algorithmic technologies themselves. They have proven to be extremely powerful.
 
 Rather, implementation challenges are far more likely related to data issues and an array of organizational considerations.  These include: 
 
