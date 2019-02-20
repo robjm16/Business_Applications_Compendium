@@ -12,7 +12,7 @@ Rather, implementation challenges are far more likely related to data issues and
 -  Measuring results, including ROI (return on investment) and KPIs (key performance indicators).   
 -  A host of change management issues, ranging from new job roles to reworked business processes. 
 -  Operationalizing AI models - how they are deployed, maintained and fine-tuned over time.
--  Communications around much of the above, including how to explain complicated AI models to gain stakeholder acceptance.
+-  Communications around much of the above, including how to explain complex or opaque AI models to gain stakeholder acceptance.
 
 In short, as with other transformative technologies, companies are finding that people and process challenges can easily surpass the technical ones. 
 
