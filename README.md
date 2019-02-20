@@ -10,11 +10,11 @@ Rather, implementation challenges are far more likely related to data issues and
 -  How to get started: type and scope of pilot projects.  
 -	 How, when and where to involve line-of-business leaders and other domain experts in AI projects.    
 -  Measuring results, including ROI (return on investment) and KPIs (key performance indicators).   
--  A host of change management issues, ranging from new job roles to new business processes. 
+-  A host of change management issues, ranging from new job roles to reworked business processes. 
 -  Operationalizing AI models - how they are deployed, maintained and fine-tuned over time.
--  Communications, ranging from how to explain complicated AI models to gain stakeholder acceptance and to the roll out of new business processes.
+-  Communications around much of the above, including how to explain complicated AI models to gain stakeholder acceptance.
 
-As with other transformative technologies, companies are finding that people and process challenges can easily surpass the technical ones. 
+In short, as with other transformative technologies, companies are finding that people and process challenges can easily surpass the technical ones. 
 
 To help you navigate AI implementation, below is a compendium of articles, research reports and other resources focused on the application of AI to the business world.  
 
