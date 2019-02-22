@@ -1,13 +1,14 @@
 ## Applying AI to Business: A Guide to Information Sources
 
-There is growing consensus, backed by recent surveys, that the biggest challenges in applying AI to business have little to do with the algorithmic technologies themselves. They have proven to be extremely powerful.
+There is growing consensus, backed by recent surveys, that the biggest challenges in applying AI to business have little to do with the algorithmic technologies themselves.  They have proven to be extremely powerful and adaptable.
 
 Rather, implementation challenges are far more likely related to data issues and an array of organizational considerations.  These include: 
 
 -	 Data quality, missing data and difficulty integrating data housed across disparate systems.  
 -	 Project risks, including those related to cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy and model bias (e.g., credit risk algorithms that unwittingly penalize certain groups).  
 -	 Difficulties recruiting data scientists and other technical experts, and questions about how to organize and manage them (e.g., in centers of excellence or within lines of business).   
--  How to get started: type and scope of pilot projects.  
+-  How to get started: type and scope of pilot projects. 
+-  Who leads potentially large-scale AI change efforts, and how.
 -	 How, when and where to involve line-of-business leaders and other domain experts in AI projects.    
 -  Measuring results, including ROI (return on investment) and KPIs (key performance indicators).   
 -  A host of change management issues, ranging from new job roles to reworked business processes. 
@@ -31,6 +32,11 @@ Brings its extensive research and analysis under an [Analytics Insights](https:/
 [Crossing the Frontier: How to Apply AI for Impact](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/crossing-the-frontier-how-to-apply-ai-for-impact) is a collection of about a dozen articles, including:   
 - [Ten Red Flags Signaling Your Analytics Program Will Fail](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) (May 2018).  
 - [What AI Can and Can’t Do (Yet) for Your Business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business) (January 2018).   
+
+Other:
+
+- [Rebooting Analytics Leadership: Time to Move Beyond the Math](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/rebooting-analytics-leadership-time-to-move-beyond-the-math?cid=other-eml-alt-mcq-mck&hlkid=65aeb63c895146e9a10b289157b501f4&hctky=11282110&hdpid=8b79160b-45f7-46e8-a7cd-00455a50b348) (November 2018) Calls for a “catalyst”-style leader for corporate AI efforts: “Takes a leadership approach in building a ‘coalition of equals’
+among the business, the CAO[Chief Analytics Officer], and IT to help ensure business impact and provide a pragmatic approach to achieving it.”
 
 #### Wall Street Journal
 The _WSJ_ brings together timely AI-related articles (often company- or industry-specific) under a dedicated [portal](https://www.wsj.com/pro/artificial-intelligence).  Follow on Twitter [@WSJProAI](https://twitter.com/WSJProAI).  
