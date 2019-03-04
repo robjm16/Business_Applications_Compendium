@@ -7,6 +7,9 @@ industry.
 comprehensive report on 400 business use cases from McKinsey, covering 19 industries and nine business functions. A related [interactive tool](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics) lets you explore the data further.
 
 ### Finance and Insurance
-- [Insurance 2030—The impact of AI on the future of insurance](https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance) from McKinsey (April 2018).
+- [Insurance 2030—The Impact of AI on the Future of Insurance](https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance) from McKinsey (April 2018).
+
+- [Derisking Machine Learning and Artificial Intelligence](https://www.mckinsey.com/business-functions/risk/our-insights/derisking-machine-learning-and-artificial-intelligence) from McKinsey, focused on banking (February 2019).
+
 
 
