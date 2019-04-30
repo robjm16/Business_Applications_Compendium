@@ -2,10 +2,10 @@
 
 There is growing consensus, backed by recent surveys, that the biggest challenges in applying AI to business have little to do with the algorithmic technologies themselves.  They have proven to be extremely powerful and adaptable.
 
-Rather, implementation challenges are far more likely related to data issues and an array of organizational considerations.  These include: 
+Rather, implementation challenges are far more likely related to data issues and an array of organizational, ethical and other considerations.  These include: 
 
 -	 Data quality, missing data and difficulty integrating data housed across disparate systems.  
--	 Project risks, including those related to cybersecurity (e.g., hacking, fooling face-recognition systems), data privacy and model bias (e.g., credit risk algorithms that unwittingly penalize certain groups).  
+-	 Project risks, including those related to cybersecurity (e.g., hacking, "adverserial" photos that fool image-recognition systems), data privacy and model bias (e.g., credit risk algorithms that unwittingly penalize certain groups).  
 -	 Difficulties recruiting data scientists and other technical experts, and questions about how to organize and manage them (e.g., in centers of excellence or within lines of business).   
 -  How to get started: type and scope of pilot projects. 
 -  Who leads potentially large-scale AI change efforts, and how.
@@ -21,8 +21,9 @@ To help you navigate AI implementation, below is a compendium of articles, resea
 
 (Note that the term AI is used here in its broadest sense.  It refers to any computer technique – including if/then-type computer logic, machine learning algorithms (e.g., regression models and decision trees) and neural networks – that aims to mimic human intelligence.)
 
-The information sources below are broken down first by key AI repositories, followed by a list of ad hoc articles and reports.  The key repositories are a good starting point for gaining understanding of AI adoption issues.  You can stay abreast of new developments by subscribing to their updates or following them on Twitter.  
+The information sources below are broken down first by key AI repositories, followed by a list of ad hoc articles and reports.  The key repositories are a good starting point for gaining understanding of AI adoption issues.  You can stay abreast of new developments by subscribing to their updates or following them on Twitter. 
 
+Lastly, to help you start thinking about possible AI uses in your company, a table with sample use cases, broken down by function (e.g., marketing, HR) and by industry, is at the bottom of this article.  
 
 #### McKinsey
 Brings its extensive research and analysis under an [Analytics Insights](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights) landing page on its website. Follow on Twitter [@McKAnalytics](https://twitter.com/McKAnalytics). 
@@ -65,3 +66,144 @@ Notable content:
 - [Why AI Underperforms and What Companies Can Do About It](https://hbr.org/2019/03/why-ai-underperforms-and-what-companies-can-do-about-it) (March 12, 2019) from the _Harvard Business Review_. "A massive skills and language gap has emerged between key organizational decision makers and their 'AI teams.' It is a barrier that promises to stall, delay, or sink algorithmic innovations. And it is growing, not shrinking."  
 - [Podcasts](https://www.datacamp.com/community/podcast) sponsored by DataCamp, which offers online data science training, often cover company-, industry- and implementation-specific topics (in addition to technical ones). See this [schema](https://github.com/robjm16/Business_Applications_Compendium/blob/master/Org_Model_for_DS_Implementation.JPG) for different data science organizational models discussed on the [Decision Intelligence and Data Science Podcast](https://www.datacamp.com/community/podcast/decision-intelligence-data-science) (October 22, 2018) with Google Cloud's chief decision scientist.  
 
+#### Use Case Examples
+ 
+
+| FUNCTION                  |                                                                                       |
+|---------------------------|---------------------------------------------------------------------------------------|
+| Customer Service          | Improve/optimize service via virtual assistants, chatbots                             |
+|                           | Identify/preempt potential negative customer service events                           |
+|                           |                                                                                       |
+| Finance/Risk              | Fraud detection                                                                       |
+|                           | Financial forecasting                                                                 |
+|                           | Risk identification/quantification                                                    |
+|                           |                                                                                       |
+| HR                        | Analytics-driven hiring, retention                                                    |
+|                           | Predict employee churn                                                                |
+|                           | Enhance employee service (virtual agents, chatbots)                                   |
+|                           | Match people/skills to tasks                                                          |
+|                           |                                                                                       |
+| IT                        | Identify intrusion, malware                                                           |
+|                           | Optimize networks                                                                     |
+|                           | Spam detection                                                                        |
+|                           | Enhanced identity management (e.g., facial/voice recognition)                         |
+|                           |                                                                                       |
+| Marketing/Sales           | Identify customer preferences, market trends                                          |
+|                           | Assess brand/product/service sentiment (via text, voice, image)                       |
+|                           | Market segmentation and targeting                                                     |
+|                           | Personalized advertising, offers                                                      |
+|                           | Product recommendations; next product to buy                                          |
+|                           | Predict ad click through, offer uptake                                                |
+|                           | Optimize search and social media advertising                                          |
+|                           | Optimize marketing budget allocation                                                  |
+|                           | Optimize marketing channel strategy                                                   |
+|                           | Location-based marketing                                                              |
+|                           | Content curation/management                                                           |
+|                           | Customer loyalty/churn                                                                |
+|                           | Lead qualification; predict likelihood of closing sale                                |
+|                           | Optimize sales forecasting                                                            |
+|                           |                                                                                       |
+| Operations                | Predictive maintenance                                                                |
+|                           | Defect/error detection, quality assurance                                             |
+|                           | Inventory optimization, warehouse design                                              |
+|                           | Supply chain optimization, real-time monitoring                                       |
+|                           | Robotic process automation (RPA)                                                      |
+|                           |                                                                                       |
+| Pricing                   | Optimize pricing, including dynamic pricing                                           |
+|                           |                                                                                       |
+| Product Development       | Optimize product features (by better understanding attributes that drive purchase)    |
+|                           |                                                                                       |
+| Strategy                  | Insights and foresights                                                               |
+|                           |                                                                                       |
+|                           |                                                                                       |
+| INDUSTRY                  |                                                                                       |
+| Agriculture               | Precision farming (drone/sensor/satellite analytics)                                  |
+|                           | Agricultural robots                                                                   |
+|                           | Livestock management                                                                  |
+|                           |                                                                                       |
+| Automotive                | Autonomous/semi-autonomous vehicles                                                   |
+|                           | Route optimization                                                                    |
+|                           | Voice-enabled human-auto interface                                                    |
+|                           | Predictive maintenance                                                                |
+|                           | Optimal dispatching (e.g., matching riders with cars)                                 |
+|                           |                                                                                       |
+| Business Services         | Enhanced knowledge management                                                         |
+|                           |                                                                                       |
+| Consumer Goods            | Product development/innovation                                                        |
+|                           | Pricing promotion and forecasting                                                     |
+|                           | Advanced channel management                                                           |
+|                           | Smart home technologies (personal assistants, security, temperature/ light controls)  |
+|                           |                                                                                       |
+| Education                 | Adaptive learning (customized to student)                                             |
+|                           | Automated grading, plagiarism detection                                               |
+|                           |                                                                                       |
+| Energy                    | Equipment monitoring, optimization                                                    |
+|                           | AI-assisted exploration                                                               |
+|                           | Predictive maintenance                                                                |
+|                           |                                                                                       |
+| Financials                | Roboadvisers                                                                          |
+|                           | Algorithmic trading                                                                   |
+|                           | Improved risk modeling (insurance, credit decisions)                                  |
+|                           | Automated/enhanced  business and economic analyses                                    |
+|                           | Fraud/money laundering detection                                                      |
+|                           | Compliance monitoring                                                                 |
+|                           | Back office automation (e.g., claims processing)                                      |
+|                           |                                                                                       |
+| Government                | Traffic control                                                                       |
+|                           | Population health surveillance; early detection of pandemics                          |
+|                           | Threat detection                                                                      |
+|                           | Predictive infrastructure maintenance; infrastructure monitoring                      |
+|                           | Predictive policing                                                                   |
+|                           |                                                                                       |
+| Healthcare                | Clinical decision support                                                             |
+|                           | Hospital/staff workflow                                                               |
+|                           | Precision care/wellness based on personal patient data                                |
+|                           | Imaging diagnostics                                                                   |
+|                           | Robotic surgery                                                                       |
+|                           | Healthcare bots                                                                       |
+|                           | Lifestyle and health management (incl. wearables)                                     |
+|                           | Medical records/charts via natural language processing                                |
+|                           |                                                                                       |
+| Industrials/Manufacturing | On-demand production                                                                  |
+|                           | Industrial robots                                                                     |
+|                           | Industrial design                                                                     |
+|                           | Yield enhancement                                                                     |
+|                           | Real-time manufacturing optimization                                                  |
+|                           | Safety enhancement                                                                    |
+|                           |                                                                                       |
+| Information Technology    | Enhanced virtual reality, gaming                                                      |
+|                           | Enhanced user interface, experience                                                   |
+|                           | Search optimization                                                                   |
+|                           |                                                                                       |
+| Materials                 | AI-assisted exploration                                                               |
+|                           |                                                                                       |
+| Media/entertainment       | Entertainment recommendations                                                         |
+|                           | Content curation/management/personalization                                           |
+|                           | Bias removal in news                                                                  |
+|                           |                                                                                       |
+| Military/Defense          | Enhanced surveillance (image, voice, text)                                            |
+|                           | Military robots, unmanned aircraft                                                    |
+|                           | Precision-guided munition                                                             |
+|                           | Battlefield health                                                                    |
+|                           | Battlefield simulation                                                                |
+|                           |                                                                                       |
+| Pharmaceuticals           | Drug discovery                                                                        |
+|                           | Drug and device effectiveness                                                         |
+|                           |                                                                                       |
+| Real Estate               | Enhanced valuation, risk/opportunity assessment                                       |
+|                           | Virtual assistants                                                                    |
+|                           |                                                                                       |
+| Retail                    | Personal shopping via voice, text                                                     |
+|                           | Personalized style advice                                                             |
+|                           | Visual search                                                                         |
+|                           | Virtual mirrors                                                                       |
+|                           |                                                                                       |
+| Telecom                   | Network self-diagnosis, self-optimization                                             |
+|                           | Network security monitoring                                                           |
+|                           | Virtual assistants                                                                    |
+|                           |                                                                                       |
+| Transportation            | Autonomous fleets/delivery                                                            |
+|                           | Optimal scheduling, positioning, freight movement                                     |
+|                           |                                                                                       |
+| Utilities                 | Grid operation and storage                                                            |
+|                           | Power usage prediction, demand management                                             |
