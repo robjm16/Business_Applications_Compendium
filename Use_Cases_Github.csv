@@ -1,0 +1,137 @@
+FUNCTION,
+Customer Service ,"Improve/optimize service via virtual assistants, chatbots"
+,Identify/preempt potential negative customer service events 
+,
+Finance/Risk ,Fraud detection 
+,Financial forecasting 
+,Risk identification/quantification  
+,
+HR,"Analytics-driven hiring, retention "
+,Predict employee churn 
+,"Enhance employee service (virtual agents, chatbots) "
+,Match people/skills to tasks
+,
+IT ,"Identify intrusion, malware"
+,Optimize networks
+,Spam detection 
+,"Enhanced identity management (e.g., facial/voice recognition)"
+,
+Marketing/Sales,"Identify customer preferences, market trends "
+,"Assess brand/product/service sentiment (via text, voice, image)"
+,Market segmentation and targeting 
+,"Personalized advertising, offers"
+,Product recommendations; next product to buy 
+,"Predict ad click through, offer uptake "
+,Optimize search and social media advertising 
+,Optimize marketing budget allocation 
+,Optimize marketing channel strategy 
+,Location-based marketing 
+,Content curation/management 
+,Customer loyalty/churn 
+,Lead qualification; predict likelihood of closing sale 
+,Optimize sales forecasting 
+,
+Operations ,Predictive maintenance 
+,"Defect/error detection, quality assurance"
+,"Inventory optimization, warehouse design "
+,"Supply chain optimization, real-time monitoring "
+,Robotic process automation (RPA)
+,
+Pricing ,"Optimize pricing, including dynamic pricing "
+,
+Product Development ,Optimize product features (by better understanding attributes that drive purchase)
+,
+Strategy ,Insights and foresights 
+,
+,
+INDUSTRY ,
+Agriculture,Precision farming (drone/sensor/satellite analytics) 
+,Agricultural robots 
+,Livestock management 
+,
+Automotive,Autonomous/semi-autonomous vehicles 
+,Route optimization
+,Voice-enabled human-auto interface
+,Predictive maintenance
+,"Optimal dispatching (e.g., matching riders with cars)"
+,
+Business Services,Enhanced knowledge management 
+,
+Consumer Goods,Product development/innovation 
+,Pricing promotion and forecasting 
+,Advanced channel management 
+,"Smart home technologies (personal assistants, security, temperature/ light controls) "
+,
+Education,Adaptive learning (customized to student)
+,"Automated grading, plagiarism detection "
+,
+Energy,"Equipment monitoring, optimization"
+,AI-assisted exploration 
+,Predictive maintenance 
+,
+Financials,Roboadvisers 
+,Algorithmic trading 
+,"Improved risk modeling (insurance, credit decisions) "
+,Automated/enhanced  business and economic analyses
+,Fraud/money laundering detection 
+,Compliance monitoring 
+,"Back office automation (e.g., claims processing)"
+,
+Government,Traffic control 
+,Population health surveillance; early detection of pandemics
+,Threat detection
+,Predictive infrastructure maintenance; infrastructure monitoring
+,Predictive policing
+,
+Healthcare,Clinical decision support 
+,Hospital/staff workflow 
+,Precision care/wellness based on personal patient data 
+,Imaging diagnostics
+,Robotic surgery 
+,Healthcare bots
+,Lifestyle and health management (incl. wearables) 
+,Medical records/charts via natural language processing 
+,
+Industrials/Manufacturing,On-demand production 
+,Industrial robots 
+,Industrial design 
+,Yield enhancement 
+,Real-time manufacturing optimization 
+,Safety enhancement
+,
+Information Technology,"Enhanced virtual reality, gaming"
+,"Enhanced user interface, experience"
+,Search optimization 
+,
+Materials,AI-assisted exploration 
+,
+Media/entertainment,Entertainment recommendations 
+,Content curation/management/personalization 
+,Bias removal in news 
+,
+Military/Defense,"Enhanced surveillance (image, voice, text)"
+,"Military robots, unmanned aircraft"
+,Precision-guided munition
+,Battlefield health 
+,Battlefield simulation
+,
+Pharmaceuticals,Drug discovery 
+,Drug and device effectiveness
+,
+Real Estate,"Enhanced valuation, risk/opportunity assessment"
+,Virtual assistants 
+,
+Retail,"Personal shopping via voice, text"
+,Personalized style advice 
+,Visual search
+,Virtual mirrors 
+,
+Telecom,"Network self-diagnosis, self-optimization "
+,Network security monitoring
+,Virtual assistants 
+,
+Transportation,Autonomous fleets/delivery 
+,"Optimal scheduling, positioning, freight movement "
+,
+Utilities,Grid operation and storage 
+,"Power usage prediction, demand management "
