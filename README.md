@@ -5,7 +5,7 @@ There is growing consensus, backed by recent surveys, that the biggest challenge
 Rather, implementation challenges are far more likely related to data issues and an array of organizational, ethical and other considerations.  These include: 
 
 -	 Data quality, missing data and difficulty integrating data housed across disparate systems.  
--	 Project risks, including those related to cybersecurity (e.g., hacking, "adverserial" photos that fool image-recognition systems), data privacy and model bias (e.g., credit risk algorithms that unwittingly penalize certain groups).  
+-	 Project risks, including those related to cybersecurity (e.g., data hacking, "adverserial" photos that fool image-recognition systems), data privacy and model bias (e.g., credit risk algorithms that unwittingly penalize certain groups).  
 -	 Difficulties recruiting data scientists and other technical experts, and questions about how to organize and manage them (e.g., in centers of excellence or within lines of business).   
 -  How to get started: type and scope of pilot projects. 
 -  Who leads potentially large-scale AI change efforts, and how.
