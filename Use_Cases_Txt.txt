@@ -48,7 +48,8 @@ Pricing
 Product Development
  	Optimize product features (by better understanding attributes that drive purchase)
 	
-Strategy 	Insights and foresights 
+Strategy
+	Insights and foresights 
 	
 	
 INDUSTRY 	
