@@ -33,6 +33,7 @@ Brings its extensive research and analysis under an [Analytics Insights](https:/
 [Crossing the Frontier: How to Apply AI for Impact](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/crossing-the-frontier-how-to-apply-ai-for-impact) is a collection of about a dozen articles, including:   
 - [Ten Red Flags Signaling Your Analytics Program Will Fail](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) (May 2018).  
 - [What AI Can and Can’t Do (Yet) for Your Business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business) (January 2018).   
+- [Confronting the Risks of Artificial Intelligence](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/Confronting-the-risks-of-artificial-intelligence?cid=other-eml-shl-mip-mck&hlkid=f45327e8816c4a629cbf1fe91f43c61d&hctky=11282110&hdpid=e957586a-62f4-42cb-a677-8b97837bd122) Overview of key areas of risk, as  well as key principles for addressing them (April 2019).
 
 Other:
 
