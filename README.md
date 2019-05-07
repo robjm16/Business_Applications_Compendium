@@ -33,10 +33,9 @@ Brings its extensive research and analysis under an [Analytics Insights](https:/
 [Crossing the Frontier: How to Apply AI for Impact](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/crossing-the-frontier-how-to-apply-ai-for-impact) is a collection of about a dozen articles, including:   
 - [Ten Red Flags Signaling Your Analytics Program Will Fail](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/ten-red-flags-signaling-your-analytics-program-will-fail) (May 2018).  
 - [What AI Can and Can’t Do (Yet) for Your Business](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-ai-can-and-cant-do-yet-for-your-business) (January 2018).   
-- [Confronting the Risks of Artificial Intelligence](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/Confronting-the-risks-of-artificial-intelligence?cid=other-eml-shl-mip-mck&hlkid=f45327e8816c4a629cbf1fe91f43c61d&hctky=11282110&hdpid=e957586a-62f4-42cb-a677-8b97837bd122) Overview of key areas of risk, as  well as key principles for addressing them (April 2019).
 
 Other:
-
+- [Confronting the Risks of Artificial Intelligence](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/Confronting-the-risks-of-artificial-intelligence?cid=other-eml-shl-mip-mck&hlkid=f45327e8816c4a629cbf1fe91f43c61d&hctky=11282110&hdpid=e957586a-62f4-42cb-a677-8b97837bd122) Overview of key areas of risk, as  well as key principles for addressing them (April 2019).
 - [Rebooting Analytics Leadership: Time to Move Beyond the Math](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/rebooting-analytics-leadership-time-to-move-beyond-the-math?cid=other-eml-alt-mcq-mck&hlkid=65aeb63c895146e9a10b289157b501f4&hctky=11282110&hdpid=8b79160b-45f7-46e8-a7cd-00455a50b348) (November 2018) Calls for a “catalyst”-style leader for corporate AI efforts: “Takes a leadership approach in building a ‘coalition of equals’
 among the business, the CAO[Chief Analytics Officer], and IT to help ensure business impact and provide a pragmatic approach to achieving it.”
 
